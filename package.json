@@ -1,0 +1,8 @@
+{
+  "name": "prime-department-guidebook-public",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "build": "node -e \"console.log('Static artifact: no build step required')\""
+  }
+}
